@@ -21,7 +21,7 @@
 
 ### 在线阅读
 
-访问文档站点：[https://queqiao-docs.pages.dev/](https://queqiao-docs.pages.dev/)
+访问文档站点：[https://queqiao-docs.netlify.app/](https://queqiao-docs.netlify.app/)（大陆部分地区可能无法访问）
 
 ### 本地运行
 
