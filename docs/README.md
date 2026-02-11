@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: 鹊桥 - 不止跨平台消息转发
+heroText: 鹊桥 - 不止跨平台消息互联
 heroImage: /logo.png
 tagline: Minecraft 服务端模组 / 插件 / 独立程序，实时接收玩家事件、通过 API 广播转发
 
