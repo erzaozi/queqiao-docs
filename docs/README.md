@@ -32,5 +32,5 @@ features:
   - title: 权限与安全
     details: 支持权限节点供权限插件 & 模组管理
 
-footer: MIT Licensed | Copyright © 2023present 17TheWord
+footer: MIT Licensed | © 2023 - present 17TheWord
 ---
