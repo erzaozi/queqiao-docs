@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![VuePress](https://img.shields.io/badge/VuePress-2.0-green.svg)](https://v2.vuepress.vuejs.org/)
 
-本仓库是 [鹊桥 (QueQiao)](https://github.com/17TheWord/QueQiao) 项目的文档仓库，旨在为用户提供详细的使用指南和参考资料。
+本仓库是 [鹊桥 (QueQiao)](https://github.com/17TheWord/QueQiao) 项目的文档仓库，基于 [VuePress 2.0](https://vuepress.vuejs.org/zh/) 构建。
 
 ## 📖 关于鹊桥
 
@@ -21,40 +21,40 @@
 
 ### 在线阅读
 
-访问文档站点：[https://queqiao-docs.pages.dev/](https://queqiao-docs.pages.dev/)
+访问文档站点：[https://queqiao-docs.netlify.app/](https://queqiao-docs.netlify.app/)（大陆部分地区可能无法访问）
 
 ### 本地运行
 
 1. **克隆仓库**
 
-    ```bash
-    git clone https://github.com/17TheWord/queqiao-docs.git
-    cd queqiao-docs
-    ```
+  ```bash
+  git clone https://github.com/17TheWord/queqiao-docs.git
+  cd queqiao-docs
+  ```
 
 2. **安装依赖**
 
-   - 本项目使用 pnpm 作为包管理器：
+  > 需要 Node.js 版本 20.19+, 22.12+ 或 23+
+  - 本项目使用 pnpm 作为包管理器：
 
-    ```bash
-    pnpm install
-    ```
+  ```bash
+  pnpm install
+  ```
 
 3. **启动开发服务器**
 
-   - 文档将在 `http://localhost:8080` 上运行。
-
-   ```bash
-   pnpm docs:dev
-   ```
+  - 文档将在 `http://localhost:8080` 上运行。
+  ```bash
+  pnpm docs:dev
+  ```
 
 4. **构建生产版本**
 
-    ```bash
-    pnpm docs:build
-    ```
+  ```bash
+  pnpm docs:build
+  ```
 
-    - 构建后的文件将输出到 `docs/.vuepress/dist` 目录。
+  - 构建后的文件将输出到 `docs/.vuepress/dist` 目录。
 
 ## 🤝 贡献指南
 
