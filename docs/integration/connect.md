@@ -8,7 +8,7 @@
 
 ## Header
 
-在使用 `正向 Websocket` 或 `反向 Websocket` 连接时，请务必在连接时携带以下 `Header`：
+在使用 `正向 Websocket` 或 `反向 Websocket` 连接时，请务必在连接时校验或携带以下 `Header`：
 
 ```json5
 {
