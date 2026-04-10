@@ -119,4 +119,8 @@
   }
   ```
 
-- 待补充
+::: tip 版本支持
+
+该接口自 工具包 (Tool) <Badge type="warning" text="v0.6.8" vertical="middle" /> 及 鹊桥 (QueQiao) <Badge type="warning" text="v0.5.0" vertical="middle" /> 版本起正式引入。
+
+:::
